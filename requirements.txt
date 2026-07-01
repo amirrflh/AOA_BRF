@@ -1,11 +1,18 @@
+# Requirements for both reproducibility notebooks:
+# 1) uci_heart_leakage_controlled_aoa_aoapp_brf_pipeline.ipynb
+# 2) larger_cardiovascular_aoa_aoapp_brf_pipeline.ipynb
+
 numpy
 pandas
+scipy
 matplotlib
 seaborn
-scipy
 scikit-learn
 imbalanced-learn
 xgboost
+scikit-optimize
 shap
-ipykernel
+psutil
+openpyxl
 jupyter
+notebook
